@@ -1,4 +1,4 @@
-# -C-Standard-I-O-Library
+# C++-Standard-I-O-Library
 UW Bothell - CSS 503 - Spring 2016 - design own core input and output functions of the C++ standard I/O library
 
 1. Purpose
